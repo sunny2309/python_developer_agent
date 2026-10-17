@@ -18,6 +18,7 @@ def calculate_average(numbers):
 
     return total / count
 ```
+
 ```
 
 Companion Skill files for the Jupyter notebook.
