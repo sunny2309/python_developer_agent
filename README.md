@@ -17,7 +17,7 @@ def calculate_average(numbers):
     count = len(numbers)
 
     return total / count
-```
+END
 ```
 
 Companion Skill files for the Jupyter notebook.
