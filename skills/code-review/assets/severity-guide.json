@@ -1,0 +1,6 @@
+{
+  "Critical": "A severe defect likely to cause major failure, data loss, or serious security issue.",
+  "High": "A major correctness or reliability problem in common usage.",
+  "Medium": "A meaningful bug or edge case affecting some valid or likely inputs.",
+  "Low": "A minor robustness, clarity, or maintainability issue."
+}
